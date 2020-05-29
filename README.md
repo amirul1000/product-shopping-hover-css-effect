@@ -1,6 +1,6 @@
 "# product-shopping-hover-css-effect" 
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/bVioODIDo6I
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
